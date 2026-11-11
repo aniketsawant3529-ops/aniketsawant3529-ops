@@ -1,16 +1,19 @@
-## Hi there 👋
+ # Hi there, I'm Aniket! 👋
+🧪 **MSc Chemistry (Industrial Chemistry) | Semester 3**  
+💊 **Aspiring Pharmaceutical Industry Professional**  
+📱 **Coding on the go: Python via Google Colab & Smartphone**
 
-<!--
-**aniketsawant3529-ops/aniketsawant3529-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+I am bridging the gap between chemistry and technology. I am learning Python to automate chemical data analysis, streamline industrial chemistry workflows, and build tools useful for the pharmaceutical sector.
 
-Here are some ideas to get you started:
+### 🛠️ Tools & Skills
+- **Languages:** Python (Pandas, NumPy, Matplotlib)
+- **Environment:** Google Colab, GitHub
+- **Domain Knowledge:** Industrial Chemistry, Pharmaceutical Processes, Data Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Current Goals
+- [ ] Build a portfolio of chemistry-related Python scripts.
+- [ ] Learn to clean and analyze pharmaceutical datasets.
+- [ ] Secure a role in the pharmaceutical industry where I can apply both my chemistry knowledge and coding skills.
+
+📫 **Let's connect:** I'm always open to discussing chemistry, coding, or pharma industry opportunities!
